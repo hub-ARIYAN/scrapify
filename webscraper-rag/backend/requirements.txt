@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+playwright
+langchain
+chromadb
+python-dotenv
+openai
+pydantic
